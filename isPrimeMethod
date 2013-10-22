@@ -1,0 +1,56 @@
+import java.util.Scanner;
+
+public class isPrime_17249225 {
+
+	/* This method checks if the number is prime
+	 * @param number user inputed number
+	 * @return boolean True if prime, false otherwise
+	 */
+	public static boolean isPrime(int number)
+	{		
+		if(number==2) // 2 is checked because it is the only even prime number.
+			return(true);
+		else if(number<2) // 2 is the first prime number, therefore number isn't prime if less than 2.
+			return(false);
+		else if(number%2 == 0) // rules out even numbers(2 is checked previously)
+			return(false);		
+		
+		//initialized to 3 because we checked divisible by 2 previously, counter adds 2 to skip even numbers
+		// Range finishes at the square root of the number because all divisible factors are before the square root
+		for(int i=3; i<Math.sqrt(number);i+=2) 
+		{
+			//if the number is evenly divisible by i, the number isn't prime
+			if(number%i == 0) 
+				return (false);
+		}
+		//if all iterations of the for loop fail to evenly divide the number, the number is prime.
+		return(true); 
+	}
+	
+	//This program checks if a user inputed number is prime, looping until -99 is entered
+	public static void main(String[] args) {
+		
+		Scanner keyboard = new Scanner(System.in);		
+		int number;
+		
+		do{
+			System.out.print("Enter a postive integer, ending with -99: ");  
+			number = keyboard.nextInt();
+		
+			//display error if input is negative AND not the sentinel value.
+			if(number <=0 && number != -99) 
+				{System.out.println("Input must be a positive integer!\n");	}
+			else if(number != -99)// else if not the sentinel value, send the number to the IsPrime method
+				{
+				boolean primeNumber = isPrime(number);
+			
+				if(!primeNumber)
+					System.out.println(number + " is NOT a prime number.\n");
+				else if(primeNumber)
+					System.out.println(number + " is a prime number!\n");
+				}
+		}while(number != -99); //loop until sentinel value is entered
+		
+		System.out.println("---End of Program---");			
+		}
+}
