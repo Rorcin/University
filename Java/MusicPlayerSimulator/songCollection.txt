@@ -1,0 +1,55 @@
+1,Next Girl,The Black Keys,Brothers,3.3,Alternative,4
+2,Howlin for You,The Black Keys,Brothers,3.2,Alternative,4
+3,Lonely Boy,The Black Keys,El Camino,3.2,Alternative,4.5
+4,Gold On the Ceiling,The Black Keys,El Camino,3.75,Alternative,4
+5,Little Black Submarines,The Black Keys,El Camino,4.33,Alternative,4
+6,Run Right Back,The Black Keys,El Camino,3.2,Alternative,3.5
+7,Your Touch,The Black Keys,Magic Potion,2.75,Alternative,4.5
+8,Cheap Wine,Cold Chisel,Last Stand,3.9,Rock,5
+9,Star Hotel,Cold Chisel,Last Stand,3.75,Rock,4
+10,Yellow,Cold Play,Parachutes,4.5,Alternative,3
+11,Queen of Hollywood,The Corrs,Talk on Corners,5.1,Pop,3.5
+12,Pineapple Head,Crowded House,Recurring Dream,3.5,Rock
+13,Better Be Home Soon,Crowded House,Recurring Dream,3.16,Rock,4.5
+14,Hotel California,The Eagles,Hotel California,6.5,Rock,5
+15,New Kid in Town,The Eagles,Hotel California,5.08,Rock,4.5
+16,Bennie and the Jets,Elton John,Rocket Man,5.35,Pop,5
+17,Goodbye Yellow Brick Road,Elton John,Rocket Man,3.22,Pop,5
+18,Wind it Up,Gwen Stefani,The Sweet Escape,3.17,Pop
+19,Wonderful Life,Gwen Stefani,The Sweet Escape,4.0,Pop,3
+20,Radioactive,Imagine Dragons,Night Visions,3.12,Alternative,4.5
+21,Demons,Imagine Dragons,Night Visions,2.97,Alternative,4.5
+22,Put Down That Weapon,Midnight Oil,Diesel and Dust,4.6,Rock,4.5
+23,Don't Wanna be the One,Midnight Oil,Place Without A Postcard,3.07,Rock,5
+24,Short Memory,Midnight Oil,10 to 1,3.88,Rock,5
+25,Scream in Blue,Midnight Oil,10 to 1,6.37,Rock,5
+26,Power and the Passion,Midnight Oil,10 to 1,5.67,Rock,5
+27,Smells Like Teen Spirit,Nirvana,Nevermind,5,Rock,5
+28,Come As You Are,Nirvana,Nevermind,3.65,Rock,4.5
+29,Lithium,Nirvana,Nevermind,4.28,Rock
+30,Alive,Pearl Jam,Rearviewmirror,5.7,Alternative,5
+31,Daughter,Pearl Jam,Rearviewmirror,3.93,Alternative,4.5
+32,Last Kiss,Pearl Jam,Rearviewmirror,3.28,Alternative,4
+33,Villa Anita,Tommy Emmanuel,The Journey,5.75,Rock,4
+34,Magnificent,U2,No Line on the Horizon,5.4,Rock,4
+35,Parachute,Timomatic,Parachute,3.67,Pop
+36,Do I Wanna Know,Arctic Monkeys,AM,4.5,Alternative,4
+37,Supremacy,Muse,The 2nd Law,4.9,Alternative,4.5
+38,Madness,Muse,The 2nd Law,4.6,Alternative,4
+39,Pompeii,Bastille,Bad Blood,3.5,Alternative,4
+40,Laura Palmer,Bastille,Bad Blood,3.1,Alternative,4
+41,Supersoaker,Kings of Leon,Mechanical Bull,3.8,Alternative,4
+42,Try,P!nk,The Truth About Love,4,Pop,3
+43,Rolling in the Deep,Adele,21,3.75,Pop,3
+44,Sexy and I Know It,LMFAO,Sorry for Party Rocking,3.32,Pop,2
+45,Let's Get Ridiculous,Redfoo,Single,3.58,Dance,2
+46,Right Here,Rudimental,Home,5.4,Dance
+47,Hey Brother,Avicii,True,4.23,Dance
+48,Wake Me Up,Avicii,True,4.15,Dance
+49,Right Action,Franz Ferdinand,Right Thoughts Right Words Right Action,3,Alternative,4
+50,Love Illumination,Franz Ferdinand,Right Thoughts Right Words Right Action,3.75,Alternative,4
+51,Satisfaction,The Rolling Stones,GRRR!,3.75,Rock,4
+52,Jumpin' Jack Flash,The Rolling Stones,GRRR!,3.75,Rock,4.5
+53,Black Fingernail Red Wine,Eskimo Joe,Black Fingernail Red Wine,4.1,Rock
+54,Nothing Else Matters,Metallica,Metallica Through the Never,7.3,Rock,5
+55,Enter Sandman,Metallica,Metallica Through the Never,6.3,Rock,5
