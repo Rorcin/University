@@ -1,9 +1,5 @@
 /*
-17249225
-Fraser Cobb
-Penrith Campus
-Thursday 10am
-Jordan
+Author: Fraser Cobb
  */
 
 import java.io.*;
